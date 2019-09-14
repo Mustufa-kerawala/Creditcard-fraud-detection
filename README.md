@@ -1,4 +1,6 @@
 # Creditcard-fraud-detection
 
-A kaggle data set of credit card fraud was analysed 
-A logistic regression model was built for classifying and detecting fraud
+data set of credit card fraud found on kaggle retrieved fron <https://www.kaggle.com/mlg-ulb/creditcardfraud>
+
+
+A logistic regression model was then built for classifying and detecting fraud
